@@ -1,0 +1,14 @@
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.csproj.CoreCompileInputs.cache
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.AssemblyInfoInputs.cache
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.AssemblyInfo.cs
+C:\Users\Ginger\source\repos\apitesting\apitesting\bin\Debug\netcoreapp2.2\apitesting.deps.json
+C:\Users\Ginger\source\repos\apitesting\apitesting\bin\Debug\netcoreapp2.2\apitesting.runtimeconfig.json
+C:\Users\Ginger\source\repos\apitesting\apitesting\bin\Debug\netcoreapp2.2\apitesting.runtimeconfig.dev.json
+C:\Users\Ginger\source\repos\apitesting\apitesting\bin\Debug\netcoreapp2.2\apitesting.dll
+C:\Users\Ginger\source\repos\apitesting\apitesting\bin\Debug\netcoreapp2.2\apitesting.pdb
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.csprojAssemblyReference.cache
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.RazorAssemblyInfo.cache
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.RazorAssemblyInfo.cs
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.RazorTargetAssemblyInfo.cache
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.dll
+C:\Users\Ginger\source\repos\apitesting\apitesting\obj\Debug\netcoreapp2.2\apitesting.pdb
